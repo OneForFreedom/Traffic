@@ -2,9 +2,9 @@
 
 It's 7am. YOU were approved for a gap year, at none other then HQ!
 
-You're speeding through traffic, but then you see it,
+You're speeding through traffic, but then you see it...
 
-a traffic light.
+A traffic light. It forces you to stop. You curse in anger.
 
 What if you made your own traffic light. 
 
